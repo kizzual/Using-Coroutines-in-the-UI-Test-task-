@@ -12,7 +12,7 @@ After clicking Start, both coroutines are launched. The indicators turn red. The
 As soon as the timer reaches zero, the coroutine indicator turns red and control is transferred to another coroutine.
 And so on in a cycle until the Stop button is pressed. When you click the Stop button, the indicators turn yellow, the values ​​in the text fields are 0, the button is renamed Start.
 
-
+_____________________________________________________________________
 Тестовое задание на собеседование: 
 
 Делать в версии 2021.3.21f1
